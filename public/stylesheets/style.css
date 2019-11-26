@@ -1,0 +1,17 @@
+﻿
+
+
+
+body {
+    padding: 50px;
+    /* font: 14px "Lucida Grande", Helvetica, Arial, sans-serif; */
+    font-family: 'Caveat', cursive;
+    background-image: url("/pictures/img1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+a {
+    color: #000000;
+}
